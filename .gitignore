@@ -1,0 +1,34 @@
+# CMake files
+CMakeLists.txt.user
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Build directory
+build/
+cmake-build-debug/
+bin/
+*.o
+*.so
+*.a
+*.dll
+*.exe
+
+# CLion specific files
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.user
+*.sublime-workspace
+*.sublime-project
