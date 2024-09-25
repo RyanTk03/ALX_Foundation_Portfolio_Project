@@ -1,7 +1,3 @@
-//
-// Created by lenovo on 22/09/2024.
-//
-
 #ifndef CUSTOMCLOCK_H
 #define CUSTOMCLOCK_H
 
